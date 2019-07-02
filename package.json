@@ -1,0 +1,11 @@
+{
+  "name": "project-java-script-oop",
+  "version": "1.0.0",
+  "description": "project javascript oop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {},
+  "license": "MIT"
+}
